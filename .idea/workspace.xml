@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f05fc68-6b94-46b2-aeff-8fe49e382b8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PyATB4xLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26082024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26082024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/26082024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21082024/Lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21082024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2408/Lab004.py" afterDir="false" />
+    <list default="true" id="2f05fc68-6b94-46b2-aeff-8fe49e382b8d" name="Changes" comment="All files till 26th auguest">
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab0013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab0015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/26082024/Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +56,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab0010.executor": "Run",
+    "Python.Lab0011.executor": "Run",
+    "Python.Lab0012.executor": "Run",
+    "Python.Lab0013.executor": "Run",
+    "Python.Lab0014.executor": "Run",
+    "Python.Lab0015.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -86,7 +90,20 @@
       <option name="presentableId" value="Default" />
       <updated>1724254438254</updated>
     </task>
+    <task id="LOCAL-00001" summary="All files till 26th auguest">
+      <option name="closed" value="true" />
+      <created>1724659096234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724659096234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All files till 26th auguest" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files till 26th auguest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
